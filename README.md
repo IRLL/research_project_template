@@ -34,7 +34,7 @@ and potentialy collaborate.
 
 ## For others
 
-This template allows you code to be packaged from the start !
+This template allows your code to be packaged from the start !
 So anyone can directly pip install it using:
 
 ```bash
@@ -57,9 +57,8 @@ First clone your newly built repository.
 > git clone https://github.com/IRLL/<repository_name>.git
 ```
 
-### Make it your own !
+### Choose a package name
 
-First, choose a package name.
 It should be short, descriptive of your research and start with `irll_`.
 (Example: `irll_coolpkg`)
 
@@ -94,7 +93,6 @@ venv\Scripts\activate
 source venv/bin/activate
 </pre>
 </details>
-<br>
 
 ### Install your future code as an editable package
 
