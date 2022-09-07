@@ -9,5 +9,3 @@ it allows to focus on what is it that we are trying to achieve now and how can w
 that our function performed successfully.
 
 """
-
-import pytest
