@@ -24,6 +24,8 @@ and potentialy collaborate.
 | File                   | Use                                                                     |
 | ---------------------- | ----------------------------------------------------------------------- |
 | `.gitignore`           | Specify which files or folders should NOT be versioned                  |
+| `.mypy.ini`            | Configuration of mypy for type checking                                 |
+| `.pylintrc`            | Configuration of pylint to evaluate basic code quality                  |
 | `LICENSE`              | License to allow other to use your code, default is Apache 2.0          |
 | `pyproject.toml`       | Configuration file that allow `pip install` to work properly            |
 | `requirements-dev.txt` | Python dependencies for developers of this codebase                     |
