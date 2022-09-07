@@ -5,3 +5,4 @@ pytest-check
 pylint
 pydocstyle
 mypy
+isort
