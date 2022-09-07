@@ -15,11 +15,12 @@ and potentialy collaborate.
 
 # Structure of the template
 
-| Folder   | Use                                                       |
-| -------- | --------------------------------------------------------- |
-| `assets` | Store images or other assets use for presentation.        |
-| `src`    | Source code                                               |
-| `tests`  | Tests that ensure that the source code behave as expected |
+| Folder     | Use                                                       |
+| ---------- | --------------------------------------------------------- |
+| `assets`   | Store images or other assets use for presentation.        |
+| `commands` | A list of useful shell commands                           |
+| `src`      | Source code                                               |
+| `tests`    | Tests that ensure that the source code behave as expected |
 
 | File                   | Use                                                                     |
 | ---------------------- | ----------------------------------------------------------------------- |
