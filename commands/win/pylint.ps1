@@ -1,1 +1,1 @@
-pylint
+pylint src
