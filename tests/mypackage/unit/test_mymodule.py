@@ -5,7 +5,6 @@ from mypackage.mymodule import my_perfect_function
 
 def test_fizz():
     """should return Fizz when divisible by 3 and not 5."""
-    assert False
     check.equal(my_perfect_function(3), "Fizz")
 
 
