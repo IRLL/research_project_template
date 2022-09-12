@@ -1,4 +1,4 @@
-name: Pytest
+name: MyPy
 
 on: ["push"]
 
@@ -25,9 +25,9 @@ jobs:
         pip install flake8
         # stop the build if there are Python syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-    - name: Install tests dependencies
+    - name: Install dev dependencies
       run: |
         pip install -r requirements-dev.txt
-    - name: Test with pytest
+    - name: Type check with mypy
       run: |
         mypy
