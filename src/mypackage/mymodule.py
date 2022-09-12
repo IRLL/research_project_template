@@ -1,5 +1,7 @@
 """Example of a module."""
 
+s
+
 
 def my_perfect_function(num: int) -> str:
     """Example of a function.
