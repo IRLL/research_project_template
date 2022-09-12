@@ -1,19 +1,6 @@
 """Example of a module."""
 
 
-def a(s):
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-    Assssssss = 0
-
-
 def my_perfect_function(num: int) -> str:
     """Example of a function.
 
