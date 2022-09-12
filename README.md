@@ -165,15 +165,21 @@ This Pull request will allow GitHub to run "actions" when you push new commits.
 Those "actions" are located in `.github/workflows` and will run tests, check types, lint code, ...
 This allows you to ensure that your code quality is nice **as you are coding**.
 
+![GitHub workflows running](assets/workflows_running.png)
+
 3.  **Code** on this branch until this SMALLEST objective possible is achieved, 
     keeping an eye on GitHub actions.
 
 4.  If you work as a team, **ask for a review** of you pull request, so your teammate(s) 
     can give you feedbacks and be up to date on you work.
 
-5.  Try to merge on `main`, but maybe the GitHub actions won't allow you if your quality is too low !
+5.  Try to merge on `main`, but maybe the GitHub actions won't allow you if some tests fails or your quality is too low !
+
+![GitHub workflows failing](assets/workflows_failing.png)
 
 6.  Fix the issues pointed out by the GitHub actions, then finaly **merge** on `main`.
+
+![GitHub workflows passing](assets/workflows_ok.png)
 
 **Why go through the trouble ?** 
 
