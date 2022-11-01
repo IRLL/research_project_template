@@ -1,4 +1,4 @@
-# **New Research Project**
+# **<project>**
 
 Short description of the project.
 
@@ -6,7 +6,7 @@ Short description of the project.
   <img src="assets/myproject.png" alt="General illustration of the project" width="60%"/>
 </p>
 
-# Why MyProject ?
+# Why <project> ?
 
 What is the initial motivation of this project ?
 
